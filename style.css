@@ -1,0 +1,21 @@
+/**
+ * Theme Name: Snobole Starter Theme
+ * Text Domain: snodev
+ * Version: 1.0
+ * Description: Simple theme to help you build something great.
+ * Tags: left-sidebar, responsive
+ * Author: Rai Omido @ Snobole Software
+ * Author URI: https://snobole.com/
+ */
+
+.wp-block-embed iframe {
+    width: 100%;
+}
+
+.hidden.flex {
+    display: flex;
+}
+
+.min-h-full {
+    min-height: 100%;
+}
